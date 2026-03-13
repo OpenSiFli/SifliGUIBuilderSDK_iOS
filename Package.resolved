@@ -1,0 +1,24 @@
+{
+  "originHash" : "bed98034984445a99765303edfb115d8df3d72f353fd1a0b28258b6adcb27807",
+  "pins" : [
+    {
+      "identity" : "ezipsdk_ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/OpenSiFli/eZIPSDK_ios.git",
+      "state" : {
+        "revision" : "aa2b374fc0002a21905d76ff12e0eb2ec5269282",
+        "version" : "2.4.5"
+      }
+    },
+    {
+      "identity" : "sifliocore",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/OpenSiFli/SifliOCore.git",
+      "state" : {
+        "revision" : "d2256ba527baa25f1926510e4417063e5289e63f",
+        "version" : "2.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}

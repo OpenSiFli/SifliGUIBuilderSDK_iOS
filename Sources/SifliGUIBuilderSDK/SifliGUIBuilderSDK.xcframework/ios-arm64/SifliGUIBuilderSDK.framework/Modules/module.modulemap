@@ -1,0 +1,6 @@
+framework module SifliGUIBuilderSDK {
+  umbrella header "SiFliGUIBuilderSDK.h"
+  export *
+
+  module * { export * }
+}
